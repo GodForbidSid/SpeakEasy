@@ -15,4 +15,4 @@ st.header("Welcome to SpeakEasy!")
 st.subheader("Translate text or audio from one language to another with ease!")
 st.write("This language translator allows you to translate text or audio from one language to another. Simply type in the text you want to translate, select the source and target languages, and click the 'Translate' button.")
 if st.button("Get Started!"):
-    st.switch_page("pages/Login 🔐.py")
+    st.switch_page("pages/1. Login 🔐.py")
